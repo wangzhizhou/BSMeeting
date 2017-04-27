@@ -1,0 +1,13 @@
+site_name: 北上见面会
+
+pages:
+    - 欢迎来北京: index.md
+    - 骑行路线规划: route.md
+    - 聚餐地点选择: restaurant.md
+    - 唱K地点: ktv.md
+    - 集体合照: group.md
+    - 通讯录: maillist.md
+    - 视频: video.md
+    - 料理: deal.md
+
+theme: readthedocs
