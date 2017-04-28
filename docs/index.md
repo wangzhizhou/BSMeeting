@@ -30,6 +30,8 @@
 
 - 逛大街
 
+<p align="center"><b><font color="red">详情见下一页</font></b></p>
+
 
 
 
