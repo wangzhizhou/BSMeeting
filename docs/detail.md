@@ -28,7 +28,7 @@
 
 **PC端点击查看地图详情**
 
-**<http://j.map.baidu.com/6ZQGe>**
+**<http://j.map.baidu.com/iQUGe>**
 
 <br/>
 
