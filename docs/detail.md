@@ -7,7 +7,7 @@
 
 <br/>
 
-**点击查看详情**
+**PC端点击查看地图详情**
 
 **<http://j.map.baidu.com/6ZQGe>**
 
