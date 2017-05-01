@@ -24,11 +24,10 @@
 
 - 骑行
 
-- 吃饭
+- 聚餐
 
 - 唱K
 
-- 逛大街
 
 <p align="center"><b><font color="red">详情见下一页</font></b></p>
 
