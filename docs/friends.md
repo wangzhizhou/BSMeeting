@@ -2,7 +2,7 @@
 
 ## 第一季
 
-[第一集](rtmp://zhulongyixian.vicp.cc:8000/vod2/friends/1.mp4)
+[第一集](rtmp://zhulongyixian.vicp.cc:8000/vod2/1-1-1.mp4)
 
 ## 第二季
 
