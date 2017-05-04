@@ -1,5 +1,9 @@
 # Friends
 
+观看方式：
+	1. 手机安装`VLC`流媒体播放器
+	2. 使用手机自带浏览器打开下方链接，提示使用"VLC"打开时，确认即可。
+	
 ## 第一季
 
 [第1集](rtmp://zhulongyixian.vicp.cc:8000/vod2/friends/1/1.mp4)
