@@ -4,4 +4,5 @@ pages:
     - 概要设计: index.md
     - 详细设计: detail.md
     - 老友记: friends.md
+    - 夜游清北之张王李: photos.md
 theme: readthedocs
