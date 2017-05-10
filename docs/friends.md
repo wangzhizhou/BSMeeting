@@ -34,37 +34,23 @@
 [第19集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/2/19.mp4)|[第20集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/2/20.mp4)|[第21集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/2/21.mp4)
 [第22集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/2/22.mp4)|[第23集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/2/23.mp4)|[第24集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/2/24.mp4)
 
-<!--
+
 
 ## 第三季
 
-[第1集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/1.mp4)
-[第2集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/2.mp4)
-[第3集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/3.mp4)
-[第4集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/4.mp4)
-[第5集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/5.mp4)
-[第6集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/6.mp4)
-[第7集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/7.mp4)
-[第8集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/8.mp4)
+|   |   |   |
+|---|---|---|
+[第1集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/1.mp4)|[第2集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/2.mp4)|[第3集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/3.mp4)
+[第4集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/4.mp4)|[第5集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/5.mp4)|[第6集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/6.mp4)
+[第7集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/7.mp4)|[第8集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/8.mp4)|[第9集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/9.mp4)
+[第10集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/10.mp4)|[第11集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/11.mp4)|[第12集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/12.mp4)
+[第13集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/13.mp4)|[第14集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/14.mp4)|[第15集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/15.mp4)
+[第16集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/16.mp4)|[第17集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/17.mp4)|[第18集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/18.mp4)
+[第19集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/19.mp4)|[第20集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/20.mp4)|[第21集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/21.mp4)
+[第22集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/22.mp4)|[第23集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/23.mp4)|[第24集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/24.mp4)
+[第25集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/3/25.mp4)|
 
-[第9集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/9.mp4)
-[第10集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/10.mp4)
-[第11集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/11.mp4)
-[第12集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/12.mp4)
-[第13集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/13.mp4)
-[第14集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/14.mp4)
-[第15集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/15.mp4)
-[第16集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/16.mp4)
-
-[第17集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/17.mp4)
-[第18集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/18.mp4)
-[第19集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/19.mp4)
-[第20集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/20.mp4)
-[第21集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/21.mp4)
-[第22集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/22.mp4)
-[第23集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/23.mp4)
-[第24集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/24.mp4)
-
+<!--
 ## 第四季
 
 [第1集](rtmp://zhulongyixian.vicp.cc:8000/vod2//friends/1/1.mp4)
