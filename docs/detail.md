@@ -172,7 +172,7 @@
 
 # To Eat List
 
-![To Eat List](toeatlist.jpg)
+![To Eat List](images/toeatlist.jpg)
 
 
 
@@ -180,7 +180,7 @@
 
 **路线图概览**
 
-![ridepath](ridepath.png)
+![ridepath](images/ridepath.png)
 
 路线说明:
 
